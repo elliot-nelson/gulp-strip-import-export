@@ -22,11 +22,15 @@
     "vinyl-sourcemaps-apply": "^0.2.1"
   },
   "engines": {
-    "node": ">= 8.0.0"
+    "node": ">=8"
   },
+  "files": [
+    "index.js"
+  ],
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
-    "jasmine": "^3.4.0"
+    "jasmine": "^3.4.0",
+    "nyc": "^14.1.1"
   }
 }
