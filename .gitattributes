@@ -1,0 +1,3 @@
+* text=auto
+spec/fixtures/example1.*.js eol=lf
+spec/fixtures/example2.*.js eol=crlf
